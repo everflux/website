@@ -101,7 +101,7 @@ Schließen Sie nach der Installation von Minikube die aktuelle CLI-Sitzung und s
 
 #### Manuelle installation unter Windows
 
- Um Minikube manuell unter Windows zu installieren, laden Sie die Datei [`minikube-windows-amd64`](https://github.com/kubernetes/minikube/releases/latest) herunter, umbenennen Sie sie in `minikube.exe` und fügen Sie sie Ihrem Pfad zu.
+ Um Minikube manuell unter Windows zu installieren, laden Sie die Datei [`minikube-windows-amd64`](https://github.com/kubernetes/minikube/releases/latest) herunter, benennen Sie sie in `minikube.exe` um und fügen Sie sie Ihrem Pfad zu.
 
 #### Windows Installer
 
